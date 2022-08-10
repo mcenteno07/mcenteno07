@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Mario Centeno</h1>
 - 👋 Hi, I’m Mario Centeno
 - 👀 I’m interested in learning how to meet IT challenges
 - 🌱 I’m currently learning about Robotic Process Automation
